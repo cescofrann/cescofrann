@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi, i'm Francesco 🙋‍♂️
 
+📗Graduated in Milan as IT specialist at ITIS G. Feltrinelli <br>
+🏫Currently attending computer engineering at Politecnico di Torino <br>
+⚙️Created several app for discord communities <br>
+👥Used to work in a team and alone<br>
+<br>
+📞Reach me on instagram: @francescotanzaa
 <!--
 **cescofrann/cescofrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

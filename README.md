@@ -5,7 +5,7 @@
 ⚙️Created several app for discord communities <br>
 👥Used to work in a team and alone<br>
 <br>
-📞Reach me out on [instagram](https://www.instagram.com/francescotanzaa/) or via [mail](francytan04@gmail.com)
+📞Reach me out on [instagram](https://www.instagram.com/francescotanzaa/) or via [email](mailto:francytan04@gmail.com)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/francescotanzaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francytan04@gmail.com) 

@@ -2,7 +2,7 @@
 
 📗Graduated in Milan as IT specialist at ITIS G. Feltrinelli <br>
 🏫Currently attending computer engineering at Politecnico di Torino <br>
-⚙️Created several app for discord communities using javascript or python. Now studying c <br>
+⚙️Created several app for discord communities using javascript or python. I'm now studying c <br>
 👥Used to work in a team and alone<br>
 <br>
 📞Reach me out via [email](mailto:francytan04@gmail.com)
